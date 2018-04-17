@@ -1,14 +1,61 @@
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "tiendas": [
+    {
+        "codigo":"20021",
+        "negocio":"Tienda 1",
+        "direccion":"Direccion 1",
+        "barrio":"Barrio 1",
+        "estado":0
+    },
+    {
+        "codigo":"20012",
+        "negocio":"Tienda 2",
+        "direccion":"Direccion 2",
+        "barrio":"Barrio 2",
+        "estado":0
+    },
+    {
+        "codigo":"12012",
+        "negocio":"Tienda 3",
+        "direccion":"Direccion 3",
+        "barrio":"Barrio 3",
+        "estado":0
+    },
+    {
+        "codigo":"12013",
+        "negocio":"Tienda 4",
+        "direccion":"Direccion 4",
+        "barrio":"Barrio 4",
+        "estado":0
+    },
+    {
+        "codigo":"12022",
+        "negocio":"Tienda 5",
+        "direccion":"Direccion 5",
+        "barrio":"Barrio 5",
+        "estado":0
+    },
+    {
+        "codigo":"12032",
+        "negocio":"Tienda 6",
+        "direccion":"Direccion 6",
+        "barrio":"Barrio 6",
+        "estado":0
+    },
+    {
+        "codigo":"12028",
+        "negocio":"Tienda 7",
+        "direccion":"Direccion 7",
+        "barrio":"Barrio 7",
+        "estado":0
+    },
+    {
+        "codigo":"12029",
+        "negocio":"Tienda 8",
+        "direccion":"Direccion 8",
+        "barrio":"Barrio 8",
+        "estado":0
+    }
+  ]
 }
